@@ -1,3 +1,3 @@
 # card-dealer
 
-Raw js and html/css included.
+Raw js code and html/css included.
